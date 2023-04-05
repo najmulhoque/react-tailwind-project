@@ -1,0 +1,35 @@
+[
+    {
+        "id": "list1",
+        "name": "Basic Membership",
+        "price": 50,
+        "features": [
+            "Access to all gym equipment",
+            "Group fitness classes",
+            "Locker room access"
+        ]
+    },
+    {
+        "id": "list2",
+        "name": "Premium Membership",
+        "price": 100,
+        "features": [
+            "Access to all gym equipment",
+            "Group fitness classes",
+            "Locker room access",
+            "Personal training sessions",
+            "Towel service"
+        ]
+    },
+    {
+        "id": "list3",
+        "name": "Corporate Membership",
+        "price": 75,
+        "features": [
+            "Access to all gym equipment",
+            "Group fitness classes",
+            "Locker room access",
+            "Discounted rates for group memberships"
+        ]
+    }
+]
